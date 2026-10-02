@@ -45,7 +45,9 @@ section.my-style li {font-family: 'Courier New'; margin-top: 0px; position: rela
 <!-- _class: my-style -->
 <!-- _paginate: false -->
 <!-- _footer: "Викулова Е.Р., МАиППО 2026" -->
-
+<style scoped>
+section {padding-right: 0%;}
+</style>
 # Мои 3+3
 ## Ожидания:
 1. Развить системное мышление
@@ -53,10 +55,11 @@ section.my-style li {font-family: 'Courier New'; margin-top: 0px; position: rela
 3. Собрать полный проект
 ## Опасения:
 1. Нехватка опыта и знаний
-2. Утонуть в теории
+2. "Утонуть" теории
 3. Выбрать сложную тему
 
-![bg right:50% bottom:15% fit](pic/slid_02.png)
+![bg right:50% fit](pic/slid_02.png)
+<!-- ИИ: черновик текста, отредактировано вручную -->
 
 ---
 ## План рассказа
@@ -152,6 +155,12 @@ section.my-style li {font-family: 'Courier New'; margin-top: 0px; position: rela
 
 ## 8 умений выпускника (1/2)
 
+<style scoped>
+section {
+    padding-right: 0%;
+}
+</style>
+
 1. **Декомпозиция**, проектирование «сверху вниз»
    — как съесть слона: по кусочкам
 2. **Структурное + контрактное** программирование
@@ -160,8 +169,15 @@ section.my-style li {font-family: 'Courier New'; margin-top: 0px; position: rela
    — доказать, а не уверенно заявить
 4. **Метрики сложности + рефакторинг**
    — измерить запутанность и распутать
+<!-- promt: Isometric 3D illustration, white background, neon blue and green accents, [a futuristic metallic multi-tool knife, a glowing puzzle piece fitting into a larger structure, a neon shield with a checkmark, a digital ruler measuring a tangled wire that becomes straight, a floating gear icon], clean tech style, soft lighting, no text, high detail, glossy texture -->
+![bg right:45% fit](pic/slid_10.png)
 
 ---
+<style scoped>
+section {
+    padding-right: 0%;
+}
+</style>
 
 ## 8 умений выпускника (2/2)
 
@@ -169,6 +185,9 @@ section.my-style li {font-family: 'Courier New'; margin-top: 0px; position: rela
 6. **Паттерны GoF** — 6 ключевых из каталога
 7. **Проектирование БД** — ER → нормализация → SQL
 8. **Мини-проект на Django** — сборка всего и защита
+
+<!-- promt: Isometric 3D illustration, white background, neon blue and green accents, [a futuristic metallic multi-tool knife, a glowing architectural blueprint, a set of interlocking geometric shapes forming a stable structure, a glowing database icon with arrows, a small rocket launching from a laptop], clean tech style, soft lighting, no text, high detail, glossy texture -->
+![bg right:45% fit](pic/slid_11.png)
 
 > Билл Гейтс: измерять код строками — как самолёт его весом.
 > Учимся измерять правильно.
